@@ -1,16 +1,17 @@
-## Hi there 👋
+### Привет!
+Я начинающий Data Scientist с научным бэкграундом (ветеринарная бактериология и паразитология). Люблю находить ответы на поставленные вопросы и находить простые объяснения сложным вещам.
 
-<!--
-**marsetmary/marsetmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Технологический стек
+- **Языки:** Python, SQL  
+- **Библиотеки для работы с данными и визуализации:** pandas, numpy, scipy, matplotlib, seaborn  
+- **Machine Learning:** scikit-learn (LogisticRegression, RandomForest, XGBoost, KNN, SVC, GridSearchCV, RandomizedSearchCV), imbalanced-learn (SMOTE, RandomOverSampler, RandomUnderSampler)  
+- **Deep Learning:** PyTorch (полносвязные сети MLP, Dropout, BatchNorm, оптимизаторы, лосс-функции, Early stopping)  
+- **Пайплайны и обработка признаков:** Pipeline, ColumnTransformer, StandardScaler, MinMaxScaler, RobustScaler, OneHotEncoder, OrdinalEncoder, PolynomialFeatures, SelectKBest, SelectFromModel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты  
+**Telegram:** [@marsetmari](https://t.me/marsetmari)    
+**E-mail:** kish_mary@vk.com
+
