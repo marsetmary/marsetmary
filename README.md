@@ -12,6 +12,6 @@
 ---
 
 ### Контакты  
-**Telegram:** [@marsetmari](https://t.me/marsetmari)    
+**Telegram:** [@marsetmari](https://t.me/marsetmary)    
 **E-mail:** kish_mary@vk.com
 
